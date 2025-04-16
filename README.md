@@ -10,7 +10,7 @@
 
 ## 🧩 자기소개
 
-- 🔍 前 네트워크 및 Redhat 미들웨어 엔지니어  
+- 🔍 前 네트워크(L4 Switch) 및 Redhat 미들웨어 엔지니어  
 - 📱 현재는 Jetpack Compose, Firebase, Supabase 기반의 Android 앱을 개발 중입니다  
 - 📌 새로운 환경에 적응하고, 더 나은 방향을 고민하며 성장 중입니다  
 
