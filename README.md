@@ -51,7 +51,7 @@
 
 ## 📬 연락처
 
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/1c999928ad42813084aafc0ee2349d66?pvs=4)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://flaxen-sort-d96.notion.site/1c999928ad42800daecbd7bd451a0c95)
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-black?style=for-the-badge&logo=github)](https://velog.io/@seejune2/posts)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%8B%9C%EC%A4%80-%EA%B9%80-195039272/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seejune2@gmail.com)
