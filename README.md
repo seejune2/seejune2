@@ -1,9 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SiJoonkim&fontSize=70&animation=twinkling)
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
-<div align=center>
-<h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+
+## 👋 안녕하세요, 개발자 김시준입니다
+
+> "왜?"라는 질문을 끊임없이 던지고, 새로운 기술과 도전에 두려움 없이 나아가는 개발자입니다.  
+> 네트워크와 시스템 엔지니어 경험을 바탕으로, 현재는 사람과 사람을 연결하는 앱 서비스를 개발하고 있습니다.
+
+---
+
+## 🧩 자기소개
+
+- 🔍 前 네트워크 및 Redhat 미들웨어 엔지니어  
+- 📱 현재는 Jetpack Compose, Firebase, Supabase 기반의 Android 앱을 개발 중입니다  
+- 📌 새로운 환경에 적응하고, 더 나은 방향을 고민하며 성장 중입니다  
+
+---
+
+## 🛠 기술 스택
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -11,18 +25,33 @@
   <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  
-  <br>
 </p>
-	
-  </div>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seejune2)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://velog.io/@seejune2/posts)](https://velog.io/@seejune2/posts)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%8B%9C%EC%A4%80-%EA%B9%80-195039272/)](https://www.linkedin.com/in/%EC%8B%9C%EC%A4%80-%EA%B9%80-195039272/)	
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:seejune2@gmail.com)](mailto:seejune2@gmail.com)
+---
+
+## 📌 포트폴리오
+
+👉 [📝 Notion 포트폴리오 바로가기](https://www.notion.so/1c999928ad42813084aafc0ee2349d66?pvs=4)
+
+> ✅ Android App 개발 경험  
+> ✅ Firebase, Supabase 기반 실무 프로젝트  
+> ✅ 일정/식단/출석 관리 기능 구현 사례  
+> ✅ 시스템 엔지니어 → 앱 개발자로의 성장 스토리
+
+---
+
+## 📈 GitHub 활동 통계
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seejune2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📬 연락처
+
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/1c999928ad42813084aafc0ee2349d66?pvs=4)
+[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-black?style=for-the-badge&logo=github)](https://velog.io/@seejune2/posts)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%8B%9C%EC%A4%80-%EA%B9%80-195039272/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seejune2@gmail.com)
