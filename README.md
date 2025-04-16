@@ -36,9 +36,9 @@
 
 👉 [📝 Notion 포트폴리오 바로가기](https://flaxen-sort-d96.notion.site/1c999928ad42813084aafc0ee2349d66)
 
-> ✅ Android App 개발 경험  
+> ✅ Android App 개발 경험
 > ✅ Firebase, Supabase 기반 실무 프로젝트  
-> ✅ 일정/식단/출석 관리 기능 구현 사례  
+> ✅ GPT api, llm을 통한 AI 기반 프로젝트  
 > ✅ 시스템 엔지니어 → 앱 개발자로의 성장 스토리
 
 ---
