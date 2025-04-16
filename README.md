@@ -34,7 +34,7 @@
 
 ## 📌 포트폴리오
 
-👉 [📝 Notion 포트폴리오 바로가기](https://www.notion.so/1c999928ad42813084aafc0ee2349d66?pvs=4)
+👉 [📝 Notion 포트폴리오 바로가기](https://flaxen-sort-d96.notion.site/1c999928ad42813084aafc0ee2349d66)
 
 > ✅ Android App 개발 경험  
 > ✅ Firebase, Supabase 기반 실무 프로젝트  
