@@ -36,10 +36,10 @@
 
 👉 [📝 Notion 포트폴리오 바로가기](https://flaxen-sort-d96.notion.site/1c999928ad42813084aafc0ee2349d66)
 
-> ✅ Android App 개발 경험
+> ✅ Android App 개발 경험  
 > ✅ Firebase, Supabase 기반 실무 프로젝트  
 > ✅ GPT api, llm을 통한 AI 기반 프로젝트  
-> ✅ 시스템 엔지니어 → 앱 개발자로의 성장 스토리
+> ✅ 시스템 엔지니어 → 앱 개발자로의 성장 스토리  
 
 ---
 
@@ -52,6 +52,6 @@
 ## 📬 연락처
 
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://flaxen-sort-d96.notion.site/1c999928ad42800daecbd7bd451a0c95)
-[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-black?style=for-the-badge&logo=github)](https://velog.io/@seejune2/posts)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%8B%9C%EC%A4%80-%EA%B9%80-195039272/)  
+[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-black?style=for-the-badge&logo=github)](https://velog.io/@seejune2/posts)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%8B%9C%EC%A4%80-%EA%B9%80-195039272/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seejune2@gmail.com)
