@@ -34,7 +34,7 @@
 
 ## 📌 포트폴리오
 
-👉 [📝 Notion 포트폴리오 바로가기](https://flaxen-sort-d96.notion.site/1c999928ad42813084aafc0ee2349d66)
+👉 [📝 포트폴리오 바로가기](https://file.notion.so/f/f/7a011e89-0cef-4471-9f9a-f3e1134506c5/3528d62a-e348-4101-9a97-f3ae69edfc7d/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EA%B9%80%EC%8B%9C%EC%A4%80.pdf?table=block&id=20e99928-ad42-8027-b788-d5c8e603f13a&spaceId=7a011e89-0cef-4471-9f9a-f3e1134506c5&expirationTimestamp=1749600000000&signature=u1vEGbVFBsNafJMs-00bF1OQGOk6dYnROTC-hce4oaQ&downloadName=%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EA%B9%80%EC%8B%9C%EC%A4%80.pdf)
 
 > ✅ Android App 개발 경험  
 > ✅ Firebase, Supabase 기반 실무 프로젝트  
