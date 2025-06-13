@@ -34,7 +34,7 @@
 
 ## 📌 포트폴리오
 
-👉 [📝 포트폴리오 바로가기](https://file.notion.so/f/f/7a011e89-0cef-4471-9f9a-f3e1134506c5/e6a9f2be-3a43-476a-b665-e69240ef99bc/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EA%B9%80%EC%8B%9C%EC%A4%80.pdf?table=block&id=21199928-ad42-8018-ae49-e7d4ac2844ed&spaceId=7a011e89-0cef-4471-9f9a-f3e1134506c5&expirationTimestamp=1749859200000&signature=daDRn5D1XQDOxFoeSVnwt5lA8rbQdpfO22h-hDZxhjI&downloadName=%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EA%B9%80%EC%8B%9C%EC%A4%80.pdf)
+👉 [📝 포트폴리오 바로가기](https://docs.google.com/presentation/d/e/2PACX-1vSSqEykbocfP6kN90ZK8AYupJVs9Gt-mAzd7tjm1bEyeoOVgefE6suWu2yP-9cLJg/pub?start=false&loop=false&delayms=60000)
 
 > ✅ Android App 개발 경험  
 > ✅ Firebase, Supabase 기반 실무 프로젝트  
