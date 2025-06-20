@@ -39,7 +39,7 @@
 > ✅ Android App 개발 경험  
 > ✅ Firebase, Supabase 기반 실무 프로젝트  
 > ✅ GPT api, llm을 통한 AI 기반 프로젝트  
-> ✅ 시스템 엔지니어 → 앱 개발자로의 성장 스토리  
+> ✅ 시스템 엔지니어 → AI 개발자로의 성장 스토리  
 
 ---
 
